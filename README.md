@@ -1,2 +1,1 @@
-# OOPS-using-Java
-Object oriented programming using Java
+This repository is about Objected oriented programming using Java
